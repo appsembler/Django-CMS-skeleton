@@ -35,7 +35,7 @@ coverage
 django-google-analytics
 
 # Better file support for the cms
--e https://github.com/stefanfoulis/django-filer.git#egg=django-filer
+-e git+https://github.com/stefanfoulis/django-filer.git#egg=django-filer
 cmsplugin-filer
 
 # Versioning of content
