@@ -8,7 +8,7 @@ django-cms==2.2
 mysql-python
 
 # Image processing
-PIL
+#PIL
 
 # Searching the site
 django-haystack
@@ -35,7 +35,7 @@ coverage
 django-google-analytics
 
 # Better file support for the cms
--e git://github.com/steffoulis/django-filer.git#egg=django-filer
+-e https://github.com/stefanfoulis/django-filer.git#egg=django-filer
 cmsplugin-filer
 
 # Versioning of content
