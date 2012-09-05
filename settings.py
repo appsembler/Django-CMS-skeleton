@@ -127,7 +127,7 @@ MIDDLEWARE_CLASSES = (
 
 )
 
-ROOT_URLCONF = 'django_cms_skeleton.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
